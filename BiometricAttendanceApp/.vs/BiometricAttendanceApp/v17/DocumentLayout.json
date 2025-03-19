@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|c:\\users\\anton\\source\\repos\\biometricattendanceapp\\biometricattendanceapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64D3636F-7620-44DF-A2B5-1BB17CDBCA94}|BiometricAttendanceApp\\BiometricAttendanceApp.csproj|solutionrelative:biometricattendanceapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anton\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\HomePage.xaml",
+              "RelativeToolTip": "BiometricAttendanceApp\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T18:28:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "BiometricAttendanceApp\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T17:45:35.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "BiometricAttendanceApp\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:53:39.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\App.xaml.cs",
+              "RelativeToolTip": "BiometricAttendanceApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:49:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "BiometricAttendanceApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-19T16:44:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Xamarin.Android.Resource.Designer.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ViewState": "AgIAADoAAAAAAAAAAAAMwEEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-19T16:31:49.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\anton\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\readme.txt",
+              "ToolTip": "C:\\Users\\anton\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-19T16:31:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\MauiProgram.cs",
+              "RelativeToolTip": "BiometricAttendanceApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:26:48.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "BiometricAttendanceApp\\Views\\SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\BiometricAttendanceApp\\BiometricAttendanceApp\\Views\\SignupPage.xaml.cs",
+              "RelativeToolTip": "BiometricAttendanceApp\\Views\\SignupPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:23:44.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
